@@ -1,0 +1,6 @@
+
+*.appx
+
+rootfs/install.tar.gz
+
+WSL/MusicAI/ext4.vhdx
