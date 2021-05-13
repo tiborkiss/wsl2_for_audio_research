@@ -1,0 +1,1 @@
+This folder holds the WSL2 instance.
